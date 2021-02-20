@@ -25,5 +25,4 @@ graph = [[0,5,INF,10],
              [INF, INF, 0,   1], 
              [INF, INF, INF, 0] 
         ] 
-
 floydWarshall(graph)
